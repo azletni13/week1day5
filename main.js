@@ -1,4 +1,4 @@
 var mathmodule = require("./math-is-cool");
 
-mathmodule.explain(1,1);
+console.log(mathmodule.explain(1,1));
 
