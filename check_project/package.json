@@ -1,0 +1,17 @@
+{
+  "name": "check_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "check.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha tests",
+    "mocha": "mocha"
+  },
+
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.0.2"
+  }
+}
